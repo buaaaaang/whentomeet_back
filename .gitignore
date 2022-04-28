@@ -152,4 +152,4 @@ cython_debug/
 #.idea/
 
 # ignore my_setting
-/whentomeet_back/my_settings.py
+whentomeet_back/my_settings.py
